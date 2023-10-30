@@ -1,0 +1,119 @@
+
+.syza{
+
+    width: 10vh;
+    height: 5vh;
+}
+.navbar-nav li a:hover {
+    color: red !important;
+  }
+  .dyt{
+
+    background-color: #d5d3d4 ;
+  }
+ 
+  .carousel-indicators {
+    bottom: -20% !important;
+    left: -82% !important;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    background-color: white !important;
+    opacity: 1 !important;
+  }
+
+  .carousel-indicators  .active {
+    background-color: #ff424d !important ;
+  }
+  
+  .carousel-indicators button {
+    border-radius: 50% !important;
+    width: 15px !important;
+    height: 15px !important;
+  }
+
+  .our-products-section .card {
+    border: none !important;
+    background-color: #e9e7e7;
+  }
+
+  .card-container {
+    box-shadow: 5px 5px 5px -5px rgba(0,0,0,.2);
+    border: solid #fff 2px;
+  }
+  .card i{
+
+    color: white;
+    font-size: 5vh
+  }
+  .cardas{
+    background-color: #002d3f !important;
+  }
+  .treti{
+
+    background-color: #d5d3d4 ;
+  }
+ .tesha{
+
+  width: 18vh ;
+  height:23vh ;
+ }
+ .card-product{
+
+  background-color: #f7f8f9
+  !important;
+ }
+ .subscribe{
+  background-color: #d5d3d4 ;
+ }
+
+ .carousel-control-prev,
+ .carousel-control-next {
+  background-color: red !important;
+  border-radius: 50%;
+  width: 60px !important;
+  height: 60px !important;
+ }
+ .hana h1{
+  color: black !important;
+ }
+ .cart-button {
+  background: none;
+  border: none;
+  cursor: pointer; 
+  padding: 0;
+}
+.delete-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0; 
+}
+
+/* .cart-button i{
+  color: red;
+} */
+
+.cart-button i {
+  color:#002d3f;
+  font-size: 3vh;
+
+}
+
+.delete-button i {
+  color: #ff424d;
+  font-size: 3vh;
+}
+/* @media screen and (min-width: 480px) {
+  .carousel-item h1{
+
+    font-size:  1vh !important;
+  }
+} */
+
+@media  screen and (max-width: 480px){
+  .carousel-item h1 {
+    font-size: 40px !important;
+  }
+}
+
